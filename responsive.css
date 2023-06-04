@@ -1,0 +1,8 @@
+@media  screen and(max-width: 575.99px) {
+ .banner{
+display: flex;
+flex-direction: column;
+height: 50%;
+ }   
+
+}
